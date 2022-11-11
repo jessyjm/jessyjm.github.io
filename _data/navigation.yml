@@ -1,12 +1,12 @@
-- title: About
-  url: /about/
-- title: Years
-  url: /years/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
-- title: More
+- title: Informática
+  url: /Informática/
+- title: El Buen Uso de la Informática
+  url: /El Buen Uso de la Informática/
+- title: Herramientas
+  url: /Herramientas/
+- title: Desventajas
+  url: /Desventajas/
+- title: Cuestionario
   sublinks:
     - title: FAQ
       url: /faq/
