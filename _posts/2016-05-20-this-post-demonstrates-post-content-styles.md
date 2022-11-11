@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "This post demonstrates post content styles"
+title: "Anegdotas"
 categories: junk
 tags: [markdown, css, html]
 author:
@@ -9,7 +9,7 @@ author:
   - Nelson Mandela Muntz
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Una de mis anecdotas durante el estudio era que siempre tenia las proim eras horas Matemáticas y Fisica y lo mas terrible fue que no podia llegar a tiempo y avia veces que me quedaba sin resivir la clase
 
 ## Some great heading (h2)
 
