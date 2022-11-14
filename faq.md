@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FAQ
+title: Link
 permalink: /faq/
 ---
 
-An FAQ page.
+An Link page.
