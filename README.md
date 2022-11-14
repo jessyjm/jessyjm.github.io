@@ -1,10 +1,10 @@
-# Hamilton <!-- omit in toc -->
+# Jessica <!-- omit in toc -->
 
-A minimal and beautiful Jekyll theme best for writing and note-taking.
+Aprender informática es sumamente importante para el ambito Educativo y Profecional.
 
 The original purpose of this theme is to be a replacement of the default Jekyll theme -- [Minima](https://github.com/jekyll/minima). Hamilton is an enhancement of Minima but still, keep in minimal.
 
-Please check out the [demo](https://ngzhio.github.io/jekyll-theme-hamilton/).
+Please check out the [demo](https://ngzhio.github.io/jekyll-theme-jessy/).
 
 | Skins | Displays |
 | ----- | -------- |
