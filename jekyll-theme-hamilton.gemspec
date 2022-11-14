@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-hamilton"
-  spec.version       = "4.0.0"
-  spec.authors       = ["Shangzhi Huang"]
-  spec.email         = ["ngzhio@gmail.com"]
+  spec.version       = "Informática"
+  spec.authors       = ["jessica.jimenez@unach.edu.ec"]
+  spec.email         = ["jj662014@unah.edu.ec"]
 
-  spec.summary       = "A minimal and beautiful Jekyll theme best for writing and note-taking."
+  spec.summary       = "La Informática es de suma importancia ya que nos ayuda en el ambito Educativo y prefecional."
   spec.homepage      = "https://github.com/ngzhio/jekyll-theme-hamilton"
   spec.license       = "MIT"
 
