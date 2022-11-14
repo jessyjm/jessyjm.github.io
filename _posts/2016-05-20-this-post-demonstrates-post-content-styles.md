@@ -9,7 +9,7 @@ author:
   - Nelson Mandela Muntz
 ---
 
-Una de mis anecdotas durante el estudio era que siempre tenia las proim eras horas Matemáticas y Fisica y lo mas terrible fue que no podia llegar a tiempo y avia veces que me quedaba sin resivir la clase
+Una de mis anecdotas durante el estudio era que siempre tenia las primeras horas Matemáticas y Fisica y lo mas terrible fue que no podia llegar a tiempo y avia veces que me quedaba sin resivir la clase
 
 ## Some great heading (h2)
 
