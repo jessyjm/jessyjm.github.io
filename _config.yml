@@ -1,8 +1,8 @@
 title: Jessica Jiménez
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+description: La Informática es sumamente inportante ya que nos ayuda en el ambito Educativo y Profecional.
+author: jessica.jimenez@unach.edu.ec
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: jj662014@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -20,7 +20,7 @@ paginate: 10
 # 
 # disqus:
 
-# Jekyll
+# jessyjm
 # ======
 exclude:
   - scripts/
