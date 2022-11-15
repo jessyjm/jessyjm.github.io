@@ -1,5 +1,4 @@
----
-layout: post
+
 title: "Educación"
 categories: misc
 Estudios primarios: San Miguel Escuela`` Rodrigo Rio Frio Jiménez”      
