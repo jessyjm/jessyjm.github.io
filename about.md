@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Importancia
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+La Informática es sumamente inportante ya que nos ayuda en el ambito Educativo y Profecional
