@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Link
-permalink: /faq/
+permalink: /https://github.com/jessyjm/
 ---
 
 An Link page.
