@@ -1,7 +1,7 @@
 title: Jessica Jiménez
 description: La Informática es sumamente inportante ya que nos ayuda en el ambito Educativo y Profecional.
 author: jessica.jimenez@unach.edu.ec
-avatar: /logo.png
+avatar: /https://avatars.githubusercontent.com/u/117693459?v=4
 email: jj662014@gmail.com
 
 plugins:
@@ -36,8 +36,6 @@ logo: logo.png
 social:
   name: Shangzhi Huang
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+  -https://github.com/ngzhio
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
