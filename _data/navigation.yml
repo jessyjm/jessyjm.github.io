@@ -8,56 +8,7 @@
   url: /Desventajas/
 - title: Cuestionario
   sublinks:
-    - title: SOBRE LAS VENTAJAS DE LA INFORMÁTICA
-      url: /<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CUESTIONARIO 2</title>
-    <link rel="stylesheet" href="cuestionario estilo.css">
-</head>
-<body>
-    <form >
-<fieldset>
-    <legend style="color: red"> <b> SOBRE LAS VENTAJAS DE LA INFORMÁTICA</b></legend> 
-    <br>
-    <label >Cual es tu nombre <br><input type="text" name="usuario" placeholder="Ingresa tu nombre"></label> 
-    <br>
-    <label >Eres un hombre o una mujer</label>
-    <br>
-    <br>
-    <label ><input type="radio" name="sexo" value="hombre"> Hombre</label>
-    <br>
-    <label ><input type="radio" name="sexo" value="mujer">Mujer</label>
-    <!-- seleccion de varios -->
-    <p style="color: red">Seleccione las ventajas de la informática</p>
-    <label ><input type="checkbox" name="genero" value="Fácilidad de almacenamiento de datos">Fácilidad de almacenamiento de datos</label><br>
-    <label ><input type="checkbox" name="genero" value="Mejor manera de encontrar datos de archivo">Mejor manera de encontrar datos de archivo</label><br>
-    <label ><input type="checkbox" name="genero" value="Comunicación rápida a cualquier parte del mundo">Comunicación rápida a cualquier parte del mundo</label><br>
-    <label ><input type="checkbox" name="genero" value="Fácil manera de corregir errores de un escrito">Fácil manera de corregir errores de un escrito</label><br>
-    <label ><input type="checkbox" name="genero" value="puedes supervisar mas partes en menos tiempo">puedes supervisar mas partes en menos tiempo</label><br>
-    <label > <input type="checkbox" name="genero" value="Pueden acceder a contenidos y materiales no adecuados">Pueden acceder a contenidos y materiales no adecuados</label><br>
-    <label > <input type="checkbox" name="genero" value="Puede conllevar una falta de capacidad para relacionarse con otras personas">Puede conllevar una falta de capacidad para relacionarse con otras personas</label><br>
-    <br>
-    <!--se desplaza las opciones-->
-    <p style="color: red">Cuantas horas te dedicas a investigar</p>
-    <select name="tiempo" id="tiempo">
-        <option value=" Menos de 30"> menos de 30 de minutos</option>
-        <option value="menos de 40"> menos de 40 minutos</option>
-        <option value="menos de 60"> menos de 60 minutos</option>
-        <option value="menos de 130"> mas de 1 hora y 30 minutos</option>
-    </select>
-    <br>
-<label style="color: red">introduce una hora de llegada: <input type="date" name="llegada"> <br>
-
-<br>
-<input type="reset" name="limpiar" value="Limpiar el formulario">
-<input type="submit" name="enviar" value="Enviar encuesta">
-</label>
-</fieldset>
-
+   
 
     </form>
 </body>
