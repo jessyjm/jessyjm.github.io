@@ -1,9 +1,7 @@
----
-layout: 
-Aficiones
----
-
--La musica
+layout: post
+title: "Aficiones"
+categories: misc
+ -La musica
 
 -La lectura
 
