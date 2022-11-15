@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Link
-
+title: Foto
 permalink: /https://github.com/jessyjm/
----
+
 
 An Link page.
